@@ -13,20 +13,34 @@
     <div class="header-inner">
       <p class="kicker">Hyojun Research</p>
       <h1>Research Notes</h1>
-      <p class="intro">A compact archive for calibration notes, experiments, and protected project reports.</p>
+      <p class="intro">프로젝트별 실험 리포트 데이터베이스. 프로젝트 · 날짜 · 모델로 필터하고 정렬해서 볼 수 있어요.</p>
     </div>
   </header>
 
   <main>
-    <section class="section-header" aria-labelledby="active-projects">
-      <div>
-        <p class="eyebrow">Archive</p>
-        <h2 id="active-projects">Project Reports</h2>
+    <section class="toolbar" aria-label="Report filters">
+      <div class="project-tabs" id="project-tabs" role="tablist" aria-label="Project filter"></div>
+      <div class="toolbar-right">
+        <input type="search" id="search" class="search" placeholder="제목 검색…" aria-label="Search report titles" autocomplete="off">
+        <span class="count" id="count" aria-live="polite"></span>
       </div>
     </section>
 
-    <section class="report-grid" id="report-grid" aria-label="Project report list">
-      <p class="empty-state" id="report-status">Loading project reports.</p>
+    <section class="table-wrap">
+      <table class="report-table" id="report-table">
+        <thead>
+          <tr>
+            <th class="col-project" data-sort="project"><button type="button">Project</button></th>
+            <th class="col-date" data-sort="date"><button type="button">Date</button></th>
+            <th class="col-model" data-sort="model"><button type="button">Model</button></th>
+            <th class="col-title" data-sort="title"><button type="button">Title</button></th>
+            <th class="col-open"><span class="visually-hidden">Open</span></th>
+          </tr>
+        </thead>
+        <tbody id="report-body">
+          <tr><td colspan="5" class="empty-state" id="report-status">리포트를 불러오는 중…</td></tr>
+        </tbody>
+      </table>
     </section>
   </main>
 
