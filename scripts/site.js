@@ -351,9 +351,32 @@
   wireSearch();
   updateSortIndicators();
 
-  discoverProjects()
-    .then(function (slugs) {
-      return Promise.all(slugs.map(readProject));
+  // Prefer a static manifest (served from Pages, no GitHub API -> no rate limit / caching
+  // staleness). Fall back to live GitHub API discovery only if the manifest is missing.
+  function bootFromManifest() {
+    return fetchText("projects/manifest.json").then(function (txt) {
+      var records = JSON.parse(txt);
+      if (!Array.isArray(records) || !records.length) {
+        throw new Error("empty manifest");
+      }
+      return records.map(function (r) {
+        return {
+          slug: r.slug,
+          title: r.title || titleFromSlug(r.slug),
+          project: r.project || "uncategorized",
+          date: r.date || "",
+          model: r.model || "",
+          href: r.href || "projects/" + r.slug + "/index.html",
+        };
+      });
+    });
+  }
+
+  bootFromManifest()
+    .catch(function () {
+      return discoverProjects().then(function (slugs) {
+        return Promise.all(slugs.map(readProject));
+      });
     })
     .then(function (records) {
       state.all = records;

@@ -1,0 +1,330 @@
+[
+ {
+  "slug": "ab-controlled-design",
+  "title": "Controlled A/B Design",
+  "project": "01-svlensless",
+  "date": "2026-07-01",
+  "model": "Claude",
+  "href": "projects/ab-controlled-design/index.html"
+ },
+ {
+  "slug": "batch-render-pipeline-20tooth",
+  "title": "Batch Render Pipeline — 20-tooth Test",
+  "project": "00-aiobio",
+  "date": "2026-06-29",
+  "model": "",
+  "href": "projects/batch-render-pipeline-20tooth/index.html"
+ },
+ {
+  "slug": "blender-dataset-positioning-outputs",
+  "title": "Blender Dataset — Tooth Positioning & Output Design",
+  "project": "00-aiobio",
+  "date": "2026-06-29",
+  "model": "",
+  "href": "projects/blender-dataset-positioning-outputs/index.html"
+ },
+ {
+  "slug": "blender-synthetic-rebuild",
+  "title": "Blender Synthetic Rebuild — Metric Scale, Camera & Lighting",
+  "project": "00-aiobio",
+  "date": "2026-06-24",
+  "model": "",
+  "href": "projects/blender-synthetic-rebuild/index.html"
+ },
+ {
+  "slug": "classical-cost-volume-baseline",
+  "title": "Classical Cost-Volume Baseline",
+  "project": "00-aiobio",
+  "date": "2026-06-23",
+  "model": "",
+  "href": "projects/classical-cost-volume-baseline/index.html"
+ },
+ {
+  "slug": "deep-learning-paper-roadmap",
+  "title": "Deep Learning Paper Roadmap",
+  "project": "00-aiobio",
+  "date": "2026-06-15",
+  "model": "",
+  "href": "projects/deep-learning-paper-roadmap/index.html"
+ },
+ {
+  "slug": "depth-model-dataset-next-plan",
+  "title": "Depth Model Plan",
+  "project": "00-aiobio",
+  "date": "2026-06-23",
+  "model": "",
+  "href": "projects/depth-model-dataset-next-plan/index.html"
+ },
+ {
+  "slug": "depth-network-design",
+  "title": "Depth Reconstruction Network — Design",
+  "project": "00-aiobio",
+  "date": "2026-07-02",
+  "model": "Claude Opus 4.8",
+  "href": "projects/depth-network-design/index.html"
+ },
+ {
+  "slug": "depth-network-green-baseline",
+  "title": "Depth Network — Green-only Baseline (1차 결과)",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/depth-network-green-baseline/index.html"
+ },
+ {
+  "slug": "depth-open-questions-codex-review",
+  "title": "Depth Open Questions Codex Review",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Codex",
+  "href": "projects/depth-open-questions-codex-review/index.html"
+ },
+ {
+  "slug": "direction-recheck-signal",
+  "title": "네트워크로 넘어가기 전 — 방향 재점검 II",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/direction-recheck-signal/index.html"
+ },
+ {
+  "slug": "discussion-open-questions",
+  "title": "논의 사항 정리 — depth를 어떻게 할까",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/discussion-open-questions/index.html"
+ },
+ {
+  "slug": "forward-model-batch-synthesis-run",
+  "title": "Forward Model — Dual-Rack Batch Raw Synthesis",
+  "project": "00-aiobio",
+  "date": "2026-07-02",
+  "model": "Claude",
+  "href": "projects/forward-model-batch-synthesis-run/index.html"
+ },
+ {
+  "slug": "forward-model-depth-check",
+  "title": "Forward Model이 depth를 구별하는가 — Plate 검증",
+  "project": "00-aiobio",
+  "date": "2026-07-03",
+  "model": "Claude Opus 4.8",
+  "href": "projects/forward-model-depth-check/index.html"
+ },
+ {
+  "slug": "forward-model-explained",
+  "title": "Forward Model 완전 해설 — Lensless 구강 스캐너",
+  "project": "00-aiobio",
+  "date": "2026-07-02",
+  "model": "Claude Opus 4.8",
+  "href": "projects/forward-model-explained/index.html"
+ },
+ {
+  "slug": "forward-model-network-review",
+  "title": "Forward Model Network Review",
+  "project": "00-aiobio",
+  "date": "2026-07-03",
+  "model": "Codex",
+  "href": "projects/forward-model-network-review/index.html"
+ },
+ {
+  "slug": "forward-model-raw-synthesis-design",
+  "title": "Forward Model — Red/Green Raw Synthesis Design",
+  "project": "00-aiobio",
+  "date": "2026-06-30",
+  "model": "",
+  "href": "projects/forward-model-raw-synthesis-design/index.html"
+ },
+ {
+  "slug": "forward-model-recon-comparison",
+  "title": "Forward Model · 복원 네트워크 — 예전 vs 지금",
+  "project": "00-aiobio",
+  "date": "2026-07-06",
+  "model": "Claude",
+  "href": "projects/forward-model-recon-comparison/index.html"
+ },
+ {
+  "slug": "forward-model-validation-dispersion",
+  "title": "Forward Model — Validation & Dispersion",
+  "project": "00-aiobio",
+  "date": "2026-06-30",
+  "model": "",
+  "href": "projects/forward-model-validation-dispersion/index.html"
+ },
+ {
+  "slug": "green-depth-signal-diagnostic",
+  "title": "Green Depth 신호 존재 진단 — 방향 재점검",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/green-depth-signal-diagnostic/index.html"
+ },
+ {
+  "slug": "green-psf-bitdepth-depth",
+  "title": "Green PSF: 8-bit vs 10-bit & QC",
+  "project": "00-aiobio",
+  "date": "2026-06-23",
+  "model": "",
+  "href": "projects/green-psf-bitdepth-depth/index.html"
+ },
+ {
+  "slug": "group-meeting-psf-network-blender",
+  "title": "Group Meeting Brief: PSF Recapture, Network, Blender Scale",
+  "project": "00-aiobio",
+  "date": "2026-06-25",
+  "model": "",
+  "href": "projects/group-meeting-psf-network-blender/index.html"
+ },
+ {
+  "slug": "heightmap-propagation-ab",
+  "title": "Heightmap Propagation Check",
+  "project": "01-svlensless",
+  "date": "2026-07-01",
+  "model": "Claude",
+  "href": "projects/heightmap-propagation-ab/index.html"
+ },
+ {
+  "slug": "lensless-dental-depth",
+  "title": "Lensless Dental Depth Brainstorm",
+  "project": "00-aiobio",
+  "date": "2026-06-22",
+  "model": "",
+  "href": "projects/lensless-dental-depth/index.html"
+ },
+ {
+  "slug": "mask-candidate-selection",
+  "title": "Mask Candidate Selection",
+  "project": "01-svlensless",
+  "date": "2026-07-01",
+  "model": "Claude",
+  "href": "projects/mask-candidate-selection/index.html"
+ },
+ {
+  "slug": "network-design-and-depth-qa",
+  "title": "Network Design & Depth Q&A",
+  "project": "00-aiobio",
+  "date": "2026-06-23",
+  "model": "",
+  "href": "projects/network-design-and-depth-qa/index.html"
+ },
+ {
+  "slug": "next-action-roadmap",
+  "title": "Next Action Roadmap",
+  "project": "00-aiobio",
+  "date": "2026-07-06",
+  "model": "Codex",
+  "href": "projects/next-action-roadmap/index.html"
+ },
+ {
+  "slug": "offaxis-robust-design",
+  "title": "Off-axis(±30°) 강건 위상마스크 설계",
+  "project": "01-svlensless",
+  "date": "2026-07-02",
+  "model": "Claude Opus 4.8",
+  "href": "projects/offaxis-robust-design/index.html"
+ },
+ {
+  "slug": "phase-mask-heightmap-reoptimization",
+  "title": "Phase Mask Heightmap",
+  "project": "01-svlensless",
+  "date": "2026-06-30",
+  "model": "Claude",
+  "href": "projects/phase-mask-heightmap-reoptimization/index.html"
+ },
+ {
+  "slug": "psf-measurement-analysis",
+  "title": "PSF Measurement Analysis",
+  "project": "01-svlensless",
+  "date": "2026-07-01",
+  "model": "Claude",
+  "href": "projects/psf-measurement-analysis/index.html"
+ },
+ {
+  "slug": "psf-measurement-comparison",
+  "title": "PSF Measurement Comparison",
+  "project": "01-svlensless",
+  "date": "2026-06-30",
+  "model": "Claude",
+  "href": "projects/psf-measurement-comparison/index.html"
+ },
+ {
+  "slug": "real-2d-reconstruction",
+  "title": "실측 2D 이미징 복원 — SG-Wiener deconv",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/real-2d-reconstruction/index.html"
+ },
+ {
+  "slug": "real-psf-calibration-gate",
+  "title": "Real Known-Geometry PSF Calibration Gate",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/real-psf-calibration-gate/index.html"
+ },
+ {
+  "slug": "real-sample-cost-volume-result",
+  "title": "Real Sample Cost-Volume Result",
+  "project": "00-aiobio",
+  "date": "2026-06-24",
+  "model": "",
+  "href": "projects/real-sample-cost-volume-result/index.html"
+ },
+ {
+  "slug": "real-stair-resolution-gate",
+  "title": "실측 Stair 게이트 — depth resolution 현주소",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/real-stair-resolution-gate/index.html"
+ },
+ {
+  "slug": "recapture-textured-cost-volume-result",
+  "title": "Recapture (Textured) Cost-Volume Result",
+  "project": "00-aiobio",
+  "date": "2026-06-24",
+  "model": "",
+  "href": "projects/recapture-textured-cost-volume-result/index.html"
+ },
+ {
+  "slug": "rotation-axis-calibration",
+  "title": "Lensless Camera Rotation Axis Calibration Geometry",
+  "project": "01-svlensless",
+  "date": "2026-06-15",
+  "model": "",
+  "href": "projects/rotation-axis-calibration/index.html"
+ },
+ {
+  "slug": "shift-invariant-mask-design",
+  "title": "Shift-Invariant Mask Design",
+  "project": "01-svlensless",
+  "date": "2026-06-30",
+  "model": "Claude",
+  "href": "projects/shift-invariant-mask-design/index.html"
+ },
+ {
+  "slug": "shift-invariant-optimization-fl31",
+  "title": "Shift-Invariant Optimization",
+  "project": "01-svlensless",
+  "date": "2026-06-30",
+  "model": "Claude",
+  "href": "projects/shift-invariant-optimization-fl31/index.html"
+ },
+ {
+  "slug": "sim-to-real-raw-comparison",
+  "title": "Sim-to-Real Raw Comparison",
+  "project": "00-aiobio",
+  "date": "2026-06-30",
+  "model": "",
+  "href": "projects/sim-to-real-raw-comparison/index.html"
+ },
+ {
+  "slug": "voronoi-mask-correction",
+  "title": "Voronoi Mask Correction",
+  "project": "01-svlensless",
+  "date": "2026-06-16",
+  "model": "",
+  "href": "projects/voronoi-mask-correction/index.html"
+ }
+]
