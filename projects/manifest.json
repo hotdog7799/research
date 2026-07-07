@@ -192,6 +192,14 @@
   "href": "projects/lensless-dental-depth/index.html"
  },
  {
+  "slug": "manuscript-draft-v1",
+  "title": "Manuscript Draft v1 — Lensless Occlusal Fluorescence Imaging",
+  "project": "00-aiobio",
+  "date": "2026-07-08",
+  "model": "Claude Opus 4.8",
+  "href": "projects/manuscript-draft-v1/index.html"
+ },
+ {
   "slug": "mask-candidate-selection",
   "title": "Mask Candidate Selection",
   "project": "01-svlensless",
