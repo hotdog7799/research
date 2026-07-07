@@ -256,6 +256,14 @@
   "href": "projects/real-2d-reconstruction/index.html"
  },
  {
+  "slug": "real-depth-from-focus-pass",
+  "title": "실측 Depth-from-Focus PASS — dot target",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/real-depth-from-focus-pass/index.html"
+ },
+ {
   "slug": "real-psf-calibration-gate",
   "title": "Real Known-Geometry PSF Calibration Gate",
   "project": "00-aiobio",
