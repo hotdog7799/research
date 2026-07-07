@@ -200,6 +200,14 @@
   "href": "projects/mask-candidate-selection/index.html"
  },
  {
+  "slug": "master-summary-for-advisor",
+  "title": "종합 리포트 — Lensless 구강 depth 전체 과정 (교수 미팅)",
+  "project": "00-aiobio",
+  "date": "2026-07-04",
+  "model": "Claude Opus 4.8",
+  "href": "projects/master-summary-for-advisor/index.html"
+ },
+ {
   "slug": "network-design-and-depth-qa",
   "title": "Network Design & Depth Q&A",
   "project": "00-aiobio",
