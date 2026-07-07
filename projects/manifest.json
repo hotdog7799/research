@@ -288,6 +288,14 @@
   "href": "projects/recapture-textured-cost-volume-result/index.html"
  },
  {
+  "slug": "relief-focal-na-note",
+  "title": "Relief–Focal–NA Design Note",
+  "project": "01-svlensless",
+  "date": "2026-07-07",
+  "model": "Claude",
+  "href": "projects/relief-focal-na-note/index.html"
+ },
+ {
   "slug": "rotation-axis-calibration",
   "title": "Lensless Camera Rotation Axis Calibration Geometry",
   "project": "01-svlensless",
