@@ -328,6 +328,14 @@
   "href": "projects/sim-to-real-raw-comparison/index.html"
  },
  {
+  "slug": "talbot-effect",
+  "title": "Talbot Effect 3D Camera — Kickoff Survey & Research Direction",
+  "project": "04-talbot",
+  "date": "2026-07-07",
+  "model": "Claude",
+  "href": "projects/talbot-effect/index.html"
+ },
+ {
   "slug": "voronoi-mask-correction",
   "title": "Voronoi Mask Correction",
   "project": "01-svlensless",
