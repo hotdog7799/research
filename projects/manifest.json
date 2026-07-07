@@ -203,7 +203,7 @@
   "slug": "master-summary-for-advisor",
   "title": "종합 리포트 — Lensless 구강 depth 전체 과정 (교수 미팅)",
   "project": "00-aiobio",
-  "date": "2026-07-04",
+  "date": "2026-07-08",
   "model": "Claude Opus 4.8",
   "href": "projects/master-summary-for-advisor/index.html"
  },
@@ -267,7 +267,7 @@
   "slug": "real-depth-from-focus-pass",
   "title": "실측 Depth-from-Focus PASS — dot target",
   "project": "00-aiobio",
-  "date": "2026-07-04",
+  "date": "2026-07-07",
   "model": "Claude Opus 4.8",
   "href": "projects/real-depth-from-focus-pass/index.html"
  },
