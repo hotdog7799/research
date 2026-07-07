@@ -176,6 +176,14 @@
   "href": "projects/group-meeting-psf-network-blender/index.html"
  },
  {
+  "slug": "heightmap-optimization-causal-story",
+  "title": "Heightmap Optimization — Causal Story",
+  "project": "01-svlensless",
+  "date": "2026-07-08",
+  "model": "Claude",
+  "href": "projects/heightmap-optimization-causal-story/index.html"
+ },
+ {
   "slug": "heightmap-propagation-ab",
   "title": "Heightmap Propagation Check",
   "project": "01-svlensless",
