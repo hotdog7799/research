@@ -390,5 +390,13 @@
     "date": "2026-07-10",
     "model": "Claude",
     "href": "projects/psf-sharpness-sampling-decouple/index.html"
+  },
+  {
+    "slug": "forward-model-rebuild-channel-texture",
+    "title": "Forward model 재구축 — 채널·texture·sampling·normalization",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/forward-model-rebuild-channel-texture/index.html"
   }
 ]
