@@ -382,5 +382,13 @@
     "date": "2026-07-09",
     "model": "Claude",
     "href": "projects/mwdn-wrapup-brainstorm/index.html"
+  },
+  {
+    "slug": "psf-sharpness-sampling-decouple",
+    "title": "PSF sharpness(FWHM) & forward/network 샘플링 분리",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/psf-sharpness-sampling-decouple/index.html"
   }
 ]
