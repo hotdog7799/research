@@ -40,6 +40,14 @@
     "href": "projects/blender-synthetic-rebuild/index.html"
   },
   {
+    "slug": "ci-study-guide",
+    "title": "Computational Imaging Study Guide",
+    "project": "99-study",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/ci-study-guide/index.html"
+  },
+  {
     "slug": "classical-cost-volume-baseline",
     "title": "Classical Cost-Volume Baseline",
     "project": "00-aiobio",
@@ -110,6 +118,14 @@
     "date": "2026-07-02",
     "model": "Claude",
     "href": "projects/forward-model-batch-synthesis-run/index.html"
+  },
+  {
+    "slug": "forward-model-code-dissection",
+    "title": "Forward model 코드 해부 — teeth3DS+ raw 합성 (green/red PSF 따로)",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/forward-model-code-dissection/index.html"
   },
   {
     "slug": "forward-model-depth-check",
@@ -392,6 +408,14 @@
     "href": "projects/sim-to-real-raw-comparison/index.html"
   },
   {
+    "slug": "spectral-unmixing-timing",
+    "title": "스펙트럼은 언제 분리하나 — unmixing과 depth 순서 (쉬운 설명)",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/spectral-unmixing-timing/index.html"
+  },
+  {
     "slug": "talbot-effect",
     "title": "Talbot Effect 3D Camera — Kickoff Survey & Research Direction",
     "project": "04-talbot",
@@ -406,21 +430,5 @@
     "date": "2026-06-16",
     "model": "",
     "href": "projects/voronoi-mask-correction/index.html"
-  },
-  {
-    "slug": "spectral-unmixing-timing",
-    "title": "스펙트럼은 언제 분리하나 — unmixing과 depth 순서 (쉬운 설명)",
-    "project": "00-aiobio",
-    "date": "2026-07-10",
-    "model": "Claude",
-    "href": "projects/spectral-unmixing-timing/index.html"
-  },
-  {
-    "slug": "forward-model-code-dissection",
-    "title": "Forward model 코드 해부 — teeth3DS+ raw 합성 (green/red PSF 따로)",
-    "project": "00-aiobio",
-    "date": "2026-07-10",
-    "model": "Claude",
-    "href": "projects/forward-model-code-dissection/index.html"
   }
 ]
