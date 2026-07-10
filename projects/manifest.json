@@ -16,6 +16,14 @@
     "href": "projects/batch-render-pipeline-20tooth/index.html"
   },
   {
+    "slug": "bfl-rotation-measurement",
+    "title": "Lensless Camera BFL Measurement via Rotation Sweep",
+    "project": "01-svlensless",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/bfl-rotation-measurement/index.html"
+  },
+  {
     "slug": "blender-dataset-positioning-outputs",
     "title": "Blender Dataset — Tooth Positioning & Output Design",
     "project": "00-aiobio",
@@ -136,6 +144,14 @@
     "href": "projects/forward-model-raw-synthesis-design/index.html"
   },
   {
+    "slug": "forward-model-rebuild-channel-texture",
+    "title": "Forward model 재구축 — 채널·texture·sampling·normalization",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/forward-model-rebuild-channel-texture/index.html"
+  },
+  {
     "slug": "forward-model-recon-comparison",
     "title": "Forward Model · 복원 네트워크 — 예전 vs 지금",
     "project": "00-aiobio",
@@ -224,6 +240,14 @@
     "href": "projects/master-summary-for-advisor/index.html"
   },
   {
+    "slug": "mwdn-wrapup-brainstorm",
+    "title": "MWDN 마무리 — PSF 샘플링 & 2-채널 브레인스토밍",
+    "project": "00-aiobio",
+    "date": "2026-07-09",
+    "model": "Claude",
+    "href": "projects/mwdn-wrapup-brainstorm/index.html"
+  },
+  {
     "slug": "network-design-and-depth-qa",
     "title": "Network Design & Depth Q&A",
     "project": "00-aiobio",
@@ -270,6 +294,14 @@
     "date": "2026-06-30",
     "model": "Claude",
     "href": "projects/psf-measurement-comparison/index.html"
+  },
+  {
+    "slug": "psf-sharpness-sampling-decouple",
+    "title": "PSF sharpness(FWHM) & forward/network 샘플링 분리",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/psf-sharpness-sampling-decouple/index.html"
   },
   {
     "slug": "real-2d-reconstruction",
@@ -374,29 +406,5 @@
     "date": "2026-06-16",
     "model": "",
     "href": "projects/voronoi-mask-correction/index.html"
-  },
-  {
-    "slug": "mwdn-wrapup-brainstorm",
-    "title": "MWDN 마무리 — PSF 샘플링 & 2-채널 브레인스토밍",
-    "project": "00-aiobio",
-    "date": "2026-07-09",
-    "model": "Claude",
-    "href": "projects/mwdn-wrapup-brainstorm/index.html"
-  },
-  {
-    "slug": "psf-sharpness-sampling-decouple",
-    "title": "PSF sharpness(FWHM) & forward/network 샘플링 분리",
-    "project": "00-aiobio",
-    "date": "2026-07-10",
-    "model": "Claude",
-    "href": "projects/psf-sharpness-sampling-decouple/index.html"
-  },
-  {
-    "slug": "forward-model-rebuild-channel-texture",
-    "title": "Forward model 재구축 — 채널·texture·sampling·normalization",
-    "project": "00-aiobio",
-    "date": "2026-07-10",
-    "model": "Claude",
-    "href": "projects/forward-model-rebuild-channel-texture/index.html"
   }
 ]
