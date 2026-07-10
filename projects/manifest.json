@@ -414,5 +414,13 @@
     "date": "2026-07-10",
     "model": "Claude",
     "href": "projects/spectral-unmixing-timing/index.html"
+  },
+  {
+    "slug": "forward-model-code-dissection",
+    "title": "Forward model 코드 해부 — teeth3DS+ raw 합성 (green/red PSF 따로)",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/forward-model-code-dissection/index.html"
   }
 ]
