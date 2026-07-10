@@ -406,5 +406,13 @@
     "date": "2026-06-16",
     "model": "",
     "href": "projects/voronoi-mask-correction/index.html"
+  },
+  {
+    "slug": "spectral-unmixing-timing",
+    "title": "스펙트럼은 언제 분리하나 — unmixing과 depth 순서 (쉬운 설명)",
+    "project": "00-aiobio",
+    "date": "2026-07-10",
+    "model": "Claude",
+    "href": "projects/spectral-unmixing-timing/index.html"
   }
 ]
