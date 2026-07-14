@@ -446,5 +446,13 @@
     "date": "2026-06-16",
     "model": "",
     "href": "projects/voronoi-mask-correction/index.html"
+  },
+  {
+    "slug": "texture-injection-v1v2",
+    "title": "치아 표면 형광 texture 주입 — v1→v2 수정",
+    "project": "00-aiobio",
+    "date": "2026-07-14",
+    "model": "Claude",
+    "href": "projects/texture-injection-v1v2/index.html"
   }
 ]
