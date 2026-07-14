@@ -328,6 +328,14 @@
     "href": "projects/psf-sharpness-sampling-decouple/index.html"
   },
   {
+    "slug": "psf-shift-invariance-pipeline",
+    "title": "PSF Shift-Invariance Pipeline",
+    "project": "01-svlensless",
+    "date": "2026-07-14",
+    "model": "Claude",
+    "href": "projects/psf-shift-invariance-pipeline/index.html"
+  },
+  {
     "slug": "real-2d-reconstruction",
     "title": "실측 2D 이미징 복원 — SG-Wiener deconv",
     "project": "00-aiobio",
