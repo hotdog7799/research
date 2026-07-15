@@ -454,5 +454,13 @@
     "date": "2026-07-14",
     "model": "Claude",
     "href": "projects/texture-injection-v1v2/index.html"
+  },
+  {
+    "slug": "texture-deconv-gate",
+    "title": "Texture deconvolution gate — depth-from-focus 부활 검증",
+    "project": "00-aiobio",
+    "date": "2026-07-15",
+    "model": "Claude",
+    "href": "projects/texture-deconv-gate/index.html"
   }
 ]
