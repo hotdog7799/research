@@ -462,5 +462,13 @@
     "date": "2026-07-15",
     "model": "Claude",
     "href": "projects/texture-deconv-gate/index.html"
+  },
+  {
+    "slug": "texture-deconv-followup",
+    "title": "Texture Deconvolution Follow-up",
+    "project": "00-aiobio",
+    "date": "2026-07-17",
+    "model": "Codex",
+    "href": "projects/texture-deconv-followup/index.html"
   }
 ]
