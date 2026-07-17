@@ -486,5 +486,13 @@
     "date": "2026-07-17",
     "model": "Codex",
     "href": "projects/texture-seed-repetition/index.html"
+  },
+  {
+    "slug": "texture-geometry-readout-audit",
+    "title": "Texture Geometry Readout Audit",
+    "project": "00-aiobio",
+    "date": "2026-07-17",
+    "model": "Codex",
+    "href": "projects/texture-geometry-readout-audit/index.html"
   }
 ]
