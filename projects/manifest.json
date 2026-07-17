@@ -478,5 +478,13 @@
     "date": "2026-07-17",
     "model": "Codex",
     "href": "projects/texture-readout-diagnostic/index.html"
+  },
+  {
+    "slug": "texture-seed-repetition",
+    "title": "V2 Texture Seed Repetition",
+    "project": "00-aiobio",
+    "date": "2026-07-17",
+    "model": "Codex",
+    "href": "projects/texture-seed-repetition/index.html"
   }
 ]
