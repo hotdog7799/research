@@ -494,5 +494,13 @@
     "date": "2026-07-17",
     "model": "Codex",
     "href": "projects/texture-geometry-readout-audit/index.html"
+  },
+  {
+    "slug": "texture-readout-reg-tv-sweep",
+    "title": "Texture Readout Reg TV Sweep",
+    "project": "00-aiobio",
+    "date": "2026-07-17",
+    "model": "Codex",
+    "href": "projects/texture-readout-reg-tv-sweep/index.html"
   }
 ]
