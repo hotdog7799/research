@@ -470,5 +470,13 @@
     "date": "2026-07-17",
     "model": "Codex",
     "href": "projects/texture-deconv-followup/index.html"
+  },
+  {
+    "slug": "texture-readout-diagnostic",
+    "title": "Texture Readout Diagnostic",
+    "project": "00-aiobio",
+    "date": "2026-07-17",
+    "model": "Codex",
+    "href": "projects/texture-readout-diagnostic/index.html"
   }
 ]
