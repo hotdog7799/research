@@ -502,5 +502,13 @@
     "date": "2026-07-17",
     "model": "Codex",
     "href": "projects/texture-readout-reg-tv-sweep/index.html"
+  },
+  {
+    "slug": "texture-local-wd-grid-probe",
+    "title": "Texture Local WD Grid Probe",
+    "project": "00-aiobio",
+    "date": "2026-07-17",
+    "model": "Codex",
+    "href": "projects/texture-local-wd-grid-probe/index.html"
   }
 ]
