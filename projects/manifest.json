@@ -1,5 +1,13 @@
 [
   {
+    "slug": "depth-v2-t0-t4-cross-eval",
+    "title": "Depth V2 T0/T4 Cross Evaluation",
+    "project": "00-aiobio",
+    "date": "2026-07-27",
+    "model": "Codex",
+    "href": "projects/depth-v2-t0-t4-cross-eval/index.html"
+  },
+  {
     "slug": "depth-v2-supervised-network",
     "title": "Depth V2 Supervised Network",
     "project": "00-aiobio",
