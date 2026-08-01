@@ -1,5 +1,13 @@
 [
   {
+    "slug": "mwdn-recon-status",
+    "title": "Real PSF Calibration & MWDN Wrap-up",
+    "project": "00-aiobio",
+    "date": "2026-08-01",
+    "model": "Codex",
+    "href": "projects/mwdn-recon-status/index.html"
+  },
+  {
     "slug": "depth-v2-prior-attribution-wrapup",
     "title": "Depth V2 Prior Attribution Wrap-up",
     "project": "00-aiobio",
