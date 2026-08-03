@@ -1,5 +1,13 @@
 [
   {
+    "slug": "microfluidic-lensless-recon",
+    "title": "Microfluidic Chip Lensless Reconstruction",
+    "project": "06-microfluidic",
+    "date": "2026-08-03",
+    "model": "Claude",
+    "href": "projects/microfluidic-lensless-recon/index.html"
+  },
+  {
     "slug": "mwdn-recon-status",
     "title": "Real PSF Calibration & MWDN Wrap-up",
     "project": "00-aiobio",
