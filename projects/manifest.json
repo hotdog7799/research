@@ -1,5 +1,13 @@
 [
   {
+    "slug": "depth-v2-wrapup-mwdn-restart",
+    "title": "Depth V2 Wrap-up & MWDN Restart",
+    "project": "00-aiobio",
+    "date": "2026-08-03",
+    "model": "Claude",
+    "href": "projects/depth-v2-wrapup-mwdn-restart/index.html"
+  },
+  {
     "slug": "microfluidic-lensless-recon",
     "title": "Microfluidic Chip Lensless Reconstruction",
     "project": "06-microfluidic",
@@ -97,7 +105,7 @@
   },
   {
     "slug": "texture-deconv-gate",
-    "title": "Texture deconvolution gate — depth-from-focus 부활 검증",
+    "title": "Texture deconvolution gate \u2014 depth-from-focus \ubd80\ud65c \uac80\uc99d",
     "project": "00-aiobio",
     "date": "2026-07-15",
     "model": "Claude",
@@ -105,7 +113,7 @@
   },
   {
     "slug": "texture-injection-v1v2",
-    "title": "치아 표면 형광 texture 주입 — v1→v2 수정",
+    "title": "\uce58\uc544 \ud45c\uba74 \ud615\uad11 texture \uc8fc\uc785 \u2014 v1\u2192v2 \uc218\uc815",
     "project": "00-aiobio",
     "date": "2026-07-14",
     "model": "Claude",
@@ -129,7 +137,7 @@
   },
   {
     "slug": "spectral-unmixing-timing",
-    "title": "스펙트럼은 언제 분리하나 — unmixing과 depth 순서 (쉬운 설명)",
+    "title": "\uc2a4\ud399\ud2b8\ub7fc\uc740 \uc5b8\uc81c \ubd84\ub9ac\ud558\ub098 \u2014 unmixing\uacfc depth \uc21c\uc11c (\uc26c\uc6b4 \uc124\uba85)",
     "project": "00-aiobio",
     "date": "2026-07-10",
     "model": "Claude",
@@ -137,7 +145,7 @@
   },
   {
     "slug": "psf-sharpness-sampling-decouple",
-    "title": "PSF sharpness(FWHM) & forward/network 샘플링 분리",
+    "title": "PSF sharpness(FWHM) & forward/network \uc0d8\ud50c\ub9c1 \ubd84\ub9ac",
     "project": "00-aiobio",
     "date": "2026-07-10",
     "model": "Claude",
@@ -145,7 +153,7 @@
   },
   {
     "slug": "forward-model-rebuild-channel-texture",
-    "title": "Forward model 재구축 — 채널·texture·sampling·normalization",
+    "title": "Forward model \uc7ac\uad6c\ucd95 \u2014 \ucc44\ub110\u00b7texture\u00b7sampling\u00b7normalization",
     "project": "00-aiobio",
     "date": "2026-07-10",
     "model": "Claude",
@@ -153,7 +161,7 @@
   },
   {
     "slug": "forward-model-code-dissection",
-    "title": "Forward model 코드 해부 — teeth3DS+ raw 합성 (green/red PSF 따로)",
+    "title": "Forward model \ucf54\ub4dc \ud574\ubd80 \u2014 teeth3DS+ raw \ud569\uc131 (green/red PSF \ub530\ub85c)",
     "project": "00-aiobio",
     "date": "2026-07-10",
     "model": "Claude",
@@ -177,7 +185,7 @@
   },
   {
     "slug": "mwdn-wrapup-brainstorm",
-    "title": "MWDN 마무리 — PSF 샘플링 & 2-채널 브레인스토밍",
+    "title": "MWDN \ub9c8\ubb34\ub9ac \u2014 PSF \uc0d8\ud50c\ub9c1 & 2-\ucc44\ub110 \ube0c\ub808\uc778\uc2a4\ud1a0\ubc0d",
     "project": "00-aiobio",
     "date": "2026-07-09",
     "model": "Claude",
@@ -185,7 +193,7 @@
   },
   {
     "slug": "master-summary-for-advisor",
-    "title": "종합 리포트 — Lensless 구강 depth 전체 과정 (교수 미팅)",
+    "title": "\uc885\ud569 \ub9ac\ud3ec\ud2b8 \u2014 Lensless \uad6c\uac15 depth \uc804\uccb4 \uacfc\uc815 (\uad50\uc218 \ubbf8\ud305)",
     "project": "00-aiobio",
     "date": "2026-07-08",
     "model": "Claude Opus 4.8",
@@ -193,7 +201,7 @@
   },
   {
     "slug": "manuscript-draft-v1",
-    "title": "Manuscript Draft v1 — Lensless Occlusal Fluorescence Imaging",
+    "title": "Manuscript Draft v1 \u2014 Lensless Occlusal Fluorescence Imaging",
     "project": "00-aiobio",
     "date": "2026-07-08",
     "model": "Claude Opus 4.8",
@@ -201,7 +209,7 @@
   },
   {
     "slug": "heightmap-optimization-causal-story",
-    "title": "Heightmap Optimization — Causal Story",
+    "title": "Heightmap Optimization \u2014 Causal Story",
     "project": "01-svlensless",
     "date": "2026-07-08",
     "model": "Claude",
@@ -209,7 +217,7 @@
   },
   {
     "slug": "talbot-effect",
-    "title": "Talbot Effect 3D Camera — Kickoff Survey & Research Direction",
+    "title": "Talbot Effect 3D Camera \u2014 Kickoff Survey & Research Direction",
     "project": "04-talbot",
     "date": "2026-07-07",
     "model": "Claude",
@@ -217,7 +225,7 @@
   },
   {
     "slug": "relief-focal-na-note",
-    "title": "Relief–Focal–NA Design Note",
+    "title": "Relief\u2013Focal\u2013NA Design Note",
     "project": "01-svlensless",
     "date": "2026-07-07",
     "model": "Claude",
@@ -225,7 +233,7 @@
   },
   {
     "slug": "real-depth-from-focus-pass",
-    "title": "실측 Depth-from-Focus PASS — dot target",
+    "title": "\uc2e4\uce21 Depth-from-Focus PASS \u2014 dot target",
     "project": "00-aiobio",
     "date": "2026-07-07",
     "model": "Claude Opus 4.8",
@@ -241,7 +249,7 @@
   },
   {
     "slug": "forward-model-recon-comparison",
-    "title": "Forward Model · 복원 네트워크 — 예전 vs 지금",
+    "title": "Forward Model \u00b7 \ubcf5\uc6d0 \ub124\ud2b8\uc6cc\ud06c \u2014 \uc608\uc804 vs \uc9c0\uae08",
     "project": "00-aiobio",
     "date": "2026-07-06",
     "model": "Claude",
@@ -249,7 +257,7 @@
   },
   {
     "slug": "real-stair-resolution-gate",
-    "title": "실측 Stair 게이트 — depth resolution 현주소",
+    "title": "\uc2e4\uce21 Stair \uac8c\uc774\ud2b8 \u2014 depth resolution \ud604\uc8fc\uc18c",
     "project": "00-aiobio",
     "date": "2026-07-04",
     "model": "Claude Opus 4.8",
@@ -265,7 +273,7 @@
   },
   {
     "slug": "real-2d-reconstruction",
-    "title": "실측 2D 이미징 복원 — SG-Wiener deconv",
+    "title": "\uc2e4\uce21 2D \uc774\ubbf8\uc9d5 \ubcf5\uc6d0 \u2014 SG-Wiener deconv",
     "project": "00-aiobio",
     "date": "2026-07-04",
     "model": "Claude Opus 4.8",
@@ -273,7 +281,7 @@
   },
   {
     "slug": "green-depth-signal-diagnostic",
-    "title": "Green Depth 신호 존재 진단 — 방향 재점검",
+    "title": "Green Depth \uc2e0\ud638 \uc874\uc7ac \uc9c4\ub2e8 \u2014 \ubc29\ud5a5 \uc7ac\uc810\uac80",
     "project": "00-aiobio",
     "date": "2026-07-04",
     "model": "Claude Opus 4.8",
@@ -281,7 +289,7 @@
   },
   {
     "slug": "discussion-open-questions",
-    "title": "논의 사항 정리 — depth를 어떻게 할까",
+    "title": "\ub17c\uc758 \uc0ac\ud56d \uc815\ub9ac \u2014 depth\ub97c \uc5b4\ub5bb\uac8c \ud560\uae4c",
     "project": "00-aiobio",
     "date": "2026-07-04",
     "model": "Claude Opus 4.8",
@@ -289,7 +297,7 @@
   },
   {
     "slug": "direction-recheck-signal",
-    "title": "네트워크로 넘어가기 전 — 방향 재점검 II",
+    "title": "\ub124\ud2b8\uc6cc\ud06c\ub85c \ub118\uc5b4\uac00\uae30 \uc804 \u2014 \ubc29\ud5a5 \uc7ac\uc810\uac80 II",
     "project": "00-aiobio",
     "date": "2026-07-04",
     "model": "Claude Opus 4.8",
@@ -305,7 +313,7 @@
   },
   {
     "slug": "depth-network-green-baseline",
-    "title": "Depth Network — Green-only Baseline (1차 결과)",
+    "title": "Depth Network \u2014 Green-only Baseline (1\ucc28 \uacb0\uacfc)",
     "project": "00-aiobio",
     "date": "2026-07-04",
     "model": "Claude Opus 4.8",
@@ -321,7 +329,7 @@
   },
   {
     "slug": "forward-model-depth-check",
-    "title": "Forward Model이 depth를 구별하는가 — Plate 검증",
+    "title": "Forward Model\uc774 depth\ub97c \uad6c\ubcc4\ud558\ub294\uac00 \u2014 Plate \uac80\uc99d",
     "project": "00-aiobio",
     "date": "2026-07-03",
     "model": "Claude Opus 4.8",
@@ -329,7 +337,7 @@
   },
   {
     "slug": "offaxis-robust-design",
-    "title": "Off-axis(±30°) 강건 위상마스크 설계",
+    "title": "Off-axis(\u00b130\u00b0) \uac15\uac74 \uc704\uc0c1\ub9c8\uc2a4\ud06c \uc124\uacc4",
     "project": "01-svlensless",
     "date": "2026-07-02",
     "model": "Claude Opus 4.8",
@@ -337,7 +345,7 @@
   },
   {
     "slug": "forward-model-explained",
-    "title": "Forward Model 완전 해설 — Lensless 구강 스캐너",
+    "title": "Forward Model \uc644\uc804 \ud574\uc124 \u2014 Lensless \uad6c\uac15 \uc2a4\uce90\ub108",
     "project": "00-aiobio",
     "date": "2026-07-02",
     "model": "Claude Opus 4.8",
@@ -345,7 +353,7 @@
   },
   {
     "slug": "forward-model-batch-synthesis-run",
-    "title": "Forward Model — Dual-Rack Batch Raw Synthesis",
+    "title": "Forward Model \u2014 Dual-Rack Batch Raw Synthesis",
     "project": "00-aiobio",
     "date": "2026-07-02",
     "model": "Claude",
@@ -353,7 +361,7 @@
   },
   {
     "slug": "depth-network-design",
-    "title": "Depth Reconstruction Network — Design",
+    "title": "Depth Reconstruction Network \u2014 Design",
     "project": "00-aiobio",
     "date": "2026-07-02",
     "model": "Claude Opus 4.8",
@@ -433,7 +441,7 @@
   },
   {
     "slug": "forward-model-validation-dispersion",
-    "title": "Forward Model — Validation & Dispersion",
+    "title": "Forward Model \u2014 Validation & Dispersion",
     "project": "00-aiobio",
     "date": "2026-06-30",
     "model": "",
@@ -441,7 +449,7 @@
   },
   {
     "slug": "forward-model-raw-synthesis-design",
-    "title": "Forward Model — Red/Green Raw Synthesis Design",
+    "title": "Forward Model \u2014 Red/Green Raw Synthesis Design",
     "project": "00-aiobio",
     "date": "2026-06-30",
     "model": "",
@@ -449,7 +457,7 @@
   },
   {
     "slug": "blender-dataset-positioning-outputs",
-    "title": "Blender Dataset — Tooth Positioning & Output Design",
+    "title": "Blender Dataset \u2014 Tooth Positioning & Output Design",
     "project": "00-aiobio",
     "date": "2026-06-29",
     "model": "",
@@ -457,7 +465,7 @@
   },
   {
     "slug": "batch-render-pipeline-20tooth",
-    "title": "Batch Render Pipeline — 20-tooth Test",
+    "title": "Batch Render Pipeline \u2014 20-tooth Test",
     "project": "00-aiobio",
     "date": "2026-06-29",
     "model": "",
@@ -489,7 +497,7 @@
   },
   {
     "slug": "blender-synthetic-rebuild",
-    "title": "Blender Synthetic Rebuild — Metric Scale, Camera & Lighting",
+    "title": "Blender Synthetic Rebuild \u2014 Metric Scale, Camera & Lighting",
     "project": "00-aiobio",
     "date": "2026-06-24",
     "model": "",
