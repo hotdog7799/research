@@ -1,5 +1,13 @@
 [
   {
+    "slug": "mwdn-forward-calibration",
+    "title": "AIOBIO MWDN Forward Calibration Log",
+    "project": "00-aiobio",
+    "date": "2026-08-08",
+    "model": "Codex",
+    "href": "projects/mwdn-forward-calibration/index.html"
+  },
+  {
     "slug": "depth-v2-wrapup-mwdn-restart",
     "title": "Depth V2 Wrap-up & MWDN Restart",
     "project": "00-aiobio",
