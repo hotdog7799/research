@@ -1,5 +1,13 @@
 [
   {
+    "slug": "lensless-aperture-characterization",
+    "title": "Lensless Aperture & Phase-Mask Characterization",
+    "project": "06-microfluidic",
+    "date": "2026-08-09",
+    "model": "Claude",
+    "href": "projects/lensless-aperture-characterization/index.html"
+  },
+  {
     "slug": "mwdn-forward-calibration",
     "title": "AIOBIO MWDN Forward Calibration Log",
     "project": "00-aiobio",
